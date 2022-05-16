@@ -1,15 +1,18 @@
-# Project Title
+# python-data-science
 
-## Table of Contents
+## Contents
 
+- [Contents](#contents)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Overview
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Learning data science with Python 🐍
 
 ## Getting Started
 

@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore the csv files that are generated
+employee_file.csv
+employee_file2.csv
+hrdata_modified.csv
