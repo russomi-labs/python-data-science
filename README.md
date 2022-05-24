@@ -9,6 +9,7 @@
   - [Installing](#installing)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Resources](#resources)
 
 ## Overview
 
@@ -58,3 +59,7 @@ Add notes about how to use the system.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
+## Resources
+
+- https://realpython.com/python-virtual-environments-a-primer/
+- https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
